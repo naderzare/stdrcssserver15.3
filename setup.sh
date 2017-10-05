@@ -8,7 +8,7 @@ sudo apt-get update
 
 sudo apt-get install rcssserver rcssmonitor rcsslogplayer
 
-sudo mkdir ~/.rcssserver | a
+mkdir ~/.rcssserver | a
 echo "make .rcssserver"
 mkdir ~/Documents/log | a
 echo "make log"
